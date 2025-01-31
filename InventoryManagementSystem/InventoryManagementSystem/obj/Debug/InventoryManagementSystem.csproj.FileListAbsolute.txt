@@ -1,0 +1,12 @@
+D:\Projects\Visual Studio\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+D:\Projects\Visual Studio\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+D:\Projects\Visual Studio\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+D:\Projects\Visual Studio\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csprojAssemblyReference.cache
+D:\Projects\Visual Studio\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Company.resources
+D:\Projects\Visual Studio\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\Projects\Visual Studio\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+D:\Projects\Visual Studio\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+D:\Projects\Visual Studio\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+D:\Projects\Visual Studio\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Login.resources
+D:\Projects\Visual Studio\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.dashboard.resources
